@@ -35,7 +35,8 @@ n=int(input())
 ```
 
 ## Output:
-![Screenshot (14)](https://user-images.githubusercontent.com/118707669/211202838-e4ed37c5-c726-47ea-8f85-026dda4546de.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/118707669/214291001-2849b758-8dd0-448b-93c8-b8e8b4a73792.png)
+
 
 ## Result:
 Thus the program to circuate the values of n variables is successfully executed
